@@ -1,0 +1,1 @@
+The purpose of this project is to create a game of rock paper scissors that runs on a browser.
